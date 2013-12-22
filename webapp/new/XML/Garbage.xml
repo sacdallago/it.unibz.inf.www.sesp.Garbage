@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<all>
+	<Obj>
+		<CAP>37050</CAP>
+		<CityName>Verona</CityName>
+		<Garbage>
+			<Type>Carta</Type>
+			<BinColour>Giallo</BinColour>
+			<GarbageElements>
+				<Item>Carta</Item>
+				<Item>Libri</Item>
+				<Item>Giornali</Item>
+				<Item>Fogli</Item>
+			</GarbageElements>
+		</Garbage>
+		<Garbage>
+			<Type>Plastica</Type>
+			<BinColour>Blu</BinColour>
+			<GarbageElements>
+				<Item>Bottiglie</Item>
+				<Item>Borse</Item>
+				<Item>Robot</Item>
+				<Item>Rettilinani pseudo umanoidi</Item>
+			</GarbageElements>
+		</Garbage>
+	</Obj>
+	<Obj>
+		<CAP>38050</CAP>
+		<CityName>Borgo Valsugana</CityName>
+		<Garbage>
+			<Type>Carta</Type>
+			<BinColour>Giallo</BinColour>
+			<GarbageElements>
+				<Item>Carta</Item>
+				<Item>Libri</Item>
+				<Item>Giornali</Item>
+				<Item>Fogli</Item>
+			</GarbageElements>
+		</Garbage>
+	</Obj>
+	<Obj>
+		<CAP>39100</CAP>
+		<CityName>Bolzano</CityName>
+		<Garbage>
+			<Type>Un tipo</Type>
+			<BinColour>Arancioncino rosa pallido</BinColour>
+			<GarbageElements>
+				<Item>Carta</Item>
+				<Item>Libri</Item>
+				<Item>Giornali</Item>
+				<Item>Fogli</Item>
+			</GarbageElements>
+		</Garbage>
+	</Obj>
+</all>

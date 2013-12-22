@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Garbage disposal system</title>
+        <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+            <link href="css/print.css" rel="stylesheet" type="text/css" media='print'>
+            <script type="text/javascript" src="scripts/cssload.js"></script>
+    </head>
+    
+    <body>
+        <div class="grass"></div>
+        <div class="wrap">
+            <a name="top"></a>
+            <!-- Header section. Same in all pages -->
+            <header class="header">
+                <div class="logo showOnMobile"><a href="index.html"><img src="images/logo.png" alt=""/></a></div>
+                <div class="menu-but showOnMobile"><a href="#menu"><img src="images/menu.png"/></a></div>
+                <br class="clearfix"/>
+                <aside class="showOnDesktop">
+                    <a name="menuDesk"></a>
+                    <h1 class="logo">GreeniFy</h1>
+                    <div class="menuDesk nav"><img src="images/coin.png"><a href="index.html">Home</a><img src="images/coin.png"><a href="about.html">About</a><img src="images/coin.png"><a href="referance.html">List of cities</a></div>
+                </aside>
+            </header>
+            <!-- End of header section -->
+            
+            <hr class="separator"/>
+            
+            <div class="container">
+                <!-- Search section. To be decided if persistent in all pates -->
+                <div id="search" class="content">
+                    <form>
+                        <p id="position"></p>
+                        <input type="text" id="what" size="30" maxlength="20" placeholder="Which Garbage?"/>
+                        <input type="text" id="where" size="7" maxlength="5" placeholder="Where?"/>
+                        <button type="button" id="button">Search</button>
+                    </form>
+                    <div class="block"></div>
+                </div>
+                <!-- End of search section -->
+                
+                <hr class="separator"/>
+                
+                <!-- Result section. To be displayed only after a query -->
+		<div id="result" class="content">
+        <article>
+		<h1 id="query"></h1>
+        <p id="answer"><img class="mario showOnDesktop" src="images/marioconv.png"></p>
+        <article>
+        <div id="bin"></div>
+		</div>
+		<!-- End of result section. -->
+        
+		<hr class="separator showOnMobile"/>
+        
+		<!-- Mobile Menu -->
+		<aside class="showOnMobile">
+			<a name="menu"></a>
+            <ul class="menu">
+				<li class="icon home"><a href="index.html">Home</a></li>
+				<li class="icon add"><a href="referance.html">List of cities</a></li>
+				<li class="icon info"><a href="about.html">About</a></li>
+			</ul>
+		</aside>
+		<!-- End of mobile Menu -->
+            </div>
+            <!-- Footer, credits aso. -->
+            <hr class="separator"/>
+            <footer class="footer">
+                <p>&copy; 2013 uni.christiandallago.com &bull; All Rights Reserved</p>
+                <div class="backToTop showOnMobile"><a href="#top">&#94;Back To top&#94;</a></div>
+            </footer>
+            <!-- End of footer, credits aso. -->
+        </div>
+        <!-- Scripts! -->
+<script src="scripts/jquery.min.js"></script>	
+<script type="text/javascript" src="scripts/autopos.js"></script>
+<script type="text/javascript" src="scripts/XMLScript.js"></script>
+<script type="text/javascript" src="scripts/search.js"></script>
+<!--------------------->
+
+</body>
+</html>

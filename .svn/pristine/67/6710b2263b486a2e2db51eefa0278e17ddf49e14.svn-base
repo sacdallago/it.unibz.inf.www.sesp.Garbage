@@ -1,0 +1,92 @@
+// Here are some paragraph examples. These are used to 'calibrate' the method \"Utility.stringIsSentence\"
+
+
+La expresidenta chilena Michelle Bachelet se ha quedado apenas a tres puntos de regresas al Palacio de la Moneda en la primera vuelta de las elecciones en el país sudamericano. La líder de la izquierdista Nueva Mayoría ha obtenido un 46,74% de los votos y se enfrentará a la oficialista Evelyn Matthei, de la coalición derechista Alianza por Chile, quien logró algo más del 25%, con el 83% del voto escrutado. "Aquí no hay dos lecturas, hemos ganado y por una amplia mayoría", ha asegurado la candidata opositora.
+LaexpresidentachilenaMichelleBacheletsehaquedadoapenasatrespuntosderegresasalPalaciodelaMonedaenlaprimeravueltadelaseleccionesenelpaíssudamericanoLalíderdelaizquierdistaNuevaMayoríahaobtenidoun4674delosvotosyseenfrentaráalaoficialistaEvelynMattheidelacoaliciónderechistaAlianzaporChilequienlogróalgomásdel25conel83delvotoescrutadoAquínohaydoslecturashemosganadoyporunaampliamayoríahaaseguradolacandidataopositora
+46742583
+.,,,,.",",.
+
+Total 513 in % =100
+Literals 412 in % =80
+Numbers 8 in % =1
+punctuation 11 in % =2
+
+
+
+Kernkraftgegner warnen, die Hunderte von Tonnen Brennstoff könnten das Tausendfache an Strahlung der Atombombe von Hiroshima freisetzen. Experten halten das jedoch für abwegig, zumal sich die Brennstäbe in dem Becken in den vergangenen drei Jahren längst ausreichend abgekühlt hätten. Reaktor 4 war zum Zeitpunkt des Erdbebens am 11. März 2011 wegen Wartungsarbeiten abgeschaltet.
+KernkraftgegnerwarnendieHundertevonTonnenBrennstoffkönntendasTausendfacheanStrahlungderAtombombevonHiroshimafreisetzenExpertenhaltendasjedochfürabwegigzumalsichdieBrennstäbeindemBeckenindenvergangenendreiJahrenlängstausreichendabgekühlthättenReaktor4warzumZeitpunktdesErdbebensam11März2011wegenWartungsarbeitenabgeschaltet
+4112011
+,.,...
+
+Total 380 in % =100
+Literals 322 in % =84
+Numbers 7 in % =1
+punctuation 6 in % =1
+
+
+
+Some regulators are pushing to close potential loopholes, saying the rule will prevent future trading blowups at big banks, a concern that gained traction when JPMorgan Chase sustained a $6 billion trading loss in London. Yet some officials at other agencies, including the Federal Reserve and the Securities and Exchange Commission, have at times worried that the rule might inhibit banks from activities that are considered important for their health and the functioning of markets.
+SomeregulatorsarepushingtoclosepotentialloopholessayingtherulewillpreventfuturetradingblowupsatbigbanksaconcernthatgainedtractionwhenJPMorganChasesustaineda6billiontradinglossinLondonYetsomeofficialsatotheragenciesincludingtheFederalReserveandtheSecuritiesandExchangeCommissionhaveattimesworriedthattherulemightinhibitbanksfromactivitiesthatareconsideredimportantfortheirhealthandthefunctioningofmarkets
+6
+,,.,,.
+
+Total 484 in % =100
+Literals 403 in % =83
+Numbers 1 in % =0
+punctuation 6 in % =1
+
+
+
+"Abbiamo risolto molti problemi legati al nostro debito pubblico". Lo dice il presidente del Consigio dei ministri, Enrico Letta che nel corso della tavola rotonda "Future of Italy summit", organizzata dal Financial Times, rivendica il lavoro fatto dal governo negli ultimi mesi: "il 2013 è stato un anno di transizione politica ed economica, ma il 2014 sarà decisivo per l'Italia. In questo trimestre prevediamo di risolvere il problema della crescita'".
+AbbiamorisoltomoltiproblemilegatialnostrodebitopubblicoLodiceilpresidentedelConsigiodeiministriEnricoLettachenelcorsodellatavolarotondaFutureofItalysummitorganizzatadalFinancialTimesrivendicaillavorofattodalgovernonegliultimimesiil2013èstatounannoditransizionepoliticaedeconomicamail2014saràdecisivoperlItaliaInquestotrimestreprevediamodirisolvereilproblemadellacrescita
+20132014
+"".,"",,:",'.'".
+
+Total 455 in % =100
+Literals 370 in % =81
+Numbers 8 in % =1
+punctuation 16 in % =3
+
+
+
+El actual presidente, Sebastián Piñera, ha lamentado la baja participación registrada en los comicios. Por primera vez en las elecciones a la jefatura del Estado el voto era voluntario y exigía de un registro previo para ejercerlo. El número de personas que se acercaron a las urnas apenas alcanzó los 6,6 millones, lo que, con un padrón de unos 13,5 millones, supone una abstención similar a las elecciones municipales del año pasado, donde se estrenó este sistema de votación."Hoy domingo han votado un poco más de 6,6 millones de chilenos", ha asegurado Piñera en un discurso en pronunciado en La Moneda, en el que mencionó una abstención del 44% y una participación del 56%, cifras que resultaron inferiores a las proporcionadas por el Servicio Elecyoral (Servel) cuando los cómputos se aproximaron a la totalidad de los votos emitidos. Piñera ha señalado que "sin duda, mientras mayor es la participación, más fuerte y más legitima es nuestra democracia". "Yo espero que en la próxima elección que tendremos el 15 de diciembre próximo podamos lograr una mucho mayor participación de compatriotas", ha enfatizado, en alusión a la segunda vuelta de los comicios celebrados este domingo.
+ElactualpresidenteSebastiánPiñerahalamentadolabajaparticipaciónregistradaenloscomiciosPorprimeravezenlaseleccionesalajefaturadelEstadoelvotoeravoluntarioyexigíadeunregistroprevioparaejercerloElnúmerodepersonasqueseacercaronalasurnasapenasalcanzólos66millonesloqueconunpadróndeunos135millonessuponeunaabstenciónsimilaralaseleccionesmunicipalesdelañopasadodondeseestrenóestesistemadevotaciónHoydomingohanvotadounpocomásde66millonesdechilenoshaaseguradoPiñeraenundiscursoenpronunciadoenLaMonedaenelquemencionóunaabstencióndel44yunaparticipacióndel56cifrasqueresultaroninferioresalasproporcionadasporelServicioElecyoralServelcuandoloscómputosseaproximaronalatotalidaddelosvotosemitidosPiñerahaseñaladoquesindudamientrasmayoreslaparticipaciónmásfuerteymáslegitimaesnuestrademocraciaYoesperoqueenlapróximaelecciónquetendremosel15dediciembrepróximopodamoslograrunamuchomayorparticipacióndecompatriotashaenfatizadoenalusiónalasegundavueltadeloscomicioscelebradosestedomingo
+6613566445615
+,,..,,,,,,.",",,,.",,"."",,.
+
+Total 1189 in % =100
+Literals 965 in % =81
+Numbers 13 in % =1
+punctuation 28 in % =2
+
+
+
+
+
+
+// Function used:
+
+public static boolean stringIsSentence(String s){
+		String literal = s.replaceAll("[^\\p{L}\\p{Nd}]", "");
+		String numbers = literal.replaceAll("[^0-9]+", "");
+		String punctuation = s.replaceAll("[^\\.|,|;|:|!|?|¿|¡|'|\"]+", "");
+		
+		System.out.println(s);
+		System.out.println(literal);
+		System.out.println(numbers);
+		System.out.println(punctuation);
+		System.out.println("\nTotal "+s.length()+" in % ="+(100*s.length())/s.length());
+		System.out.println("Literals "+literal.length()+" in % ="+(100*literal.length())/s.length());
+		System.out.println("Numbers "+numbers.length()+" in % ="+(100*numbers.length())/s.length());
+		System.out.println("punctuation "+punctuation.length()+" in % ="+(100*punctuation.length())/s.length());
+		
+		return true;
+	}
+	
+	
+	
+	
+// Outcome:
+Literals in % = 80/84
+Numbers in % = 0/1
+punctuation in % = 1/3

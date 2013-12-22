@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>GreeniFy</title>
+		<meta charset="utf-8">
+		<link href="css/print.css" rel="stylesheet" type="text/css" media='print'>
+		<script type="text/javascript" src="scripts/cssload.js"></script>
+    	<script src="http://code.jquery.com/jquery-latest.js"></script>
+    	<script type="text/javascript" src="scripts/fade.js"></script>
+	</head>
+	<body>
+		<div id="grass" ></div>
+		<h1 id="logo">GreeniFy</h1>
+		<a name="top"> </a>
+		<!-- Header section. Same in all pages -->
+		<header>
+			<a name="menuDesk"> </a>
+			<nav><img src="images/coin.png"><a href="index.html">Home</a><img src="images/coin.png"><a href="about.html">About</a><img src="images/coin.png"><a href="referance.html">Lista di citt&agrave;</a>
+			</nav>
+		</header>
+		<!-- End of header section -->
+
+		<!-- Result section. To be displayed only after a query -->
+		<div id="about" class="content">
+			<article>
+				<h1>About</h1>
+				<p>
+					Questa pagina web vuole simplificare la ricerca, per gli utenti delle citt&agrave; italiane, del modo corretto per disporre i propri rifiuti. Vorremmo educare il pubblico giovanile al reciclaggio, cos&iacute; come offrire ad un pubblico adulto, un utile mezzo per sapere dove disporre i rifiuti.
+				</p>
+				<p>
+					Se in vacanza o a casa, il sito automaticmanete riveler&aacute; la posizione e vi dar&aacute; la possibilit&aacute; di cercare definizioni per un certo tipo di rifiuti nel luogo in cui vi trovate.
+				</p>
+			</article>
+		</div>
+		<!-- End of result section. -->
+		<script src="scripts/jquery.min.js"></script>	
+	</body>
+</html>

@@ -1,0 +1,40 @@
+<!-- Detect Device -->
+<?php
+    include ('md/Mobile_Detect.php');
+             $detect = new Mobile_Detect();
+    ?>
+<!-- Detect Device -->
+
+
+<?php
+            echo 'test \n';
+            if ($detect->isMobile() && !$detect->isTablet()) { /* Ignore tablets */ ?>
+        <!-- <link rel="stylesheet" href="mobile.css" type="text/css" />-->
+        <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+        <?php $menulink = TRUE; } else { /* normal and tablet */ ?>
+        <link type="text/css" media="screen" rel="stylesheet" href="css/style.css">
+        <?php } ?>
+        
+        
+        
+<!DOCTYPE html>
+<html lang="en">
+
+
+    <!--
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+            <polygon points="15,0 5,25 165,25 155,0" style="fill:none;stroke:black;stroke-width:2" />
+            <polygon points="0,25 0,50 170,50 170,25" style="fill:none;stroke:black;stroke-width:2" />
+            <polygon points="7,50 7,190 10,200 159,200 162,190 162,50" style="fill:none;stroke:black;stroke-width:2" />
+        </svg>
+        
+        <img src="img/bin.svg" onerror="this.onerror=null; this.src='img/bin.png'">-->
+        
+        
+        
+        
+		<div class="social">
+				<a href="#"><img src="images/facebook.png" alt=""></a>
+				<a href="#"><img src="images/twitter.png" alt=""></a>
+				<a href="#"><img src="images/gplus.png" alt=""></a>
+		</div>

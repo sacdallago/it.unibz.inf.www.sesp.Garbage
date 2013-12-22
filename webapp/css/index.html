@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Garbage disposal system</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+    <link href="css/print.css" rel="stylesheet" type="text/css" media='print'>
+    <script type="text/javascript" src="scripts/cssload.js"></script>
+</head>
+
+<body onload="loadFunction()">
+
+<div class="wrap">
+	<!-- Header section. Same in all pages -->
+  <header class="header">
+
+		<div class="logo"><a href="index.html"><img src="images/logo.png" alt=""/></a></div>
+		<div class="menu-but showOnMobile"><a href="#menu"><img src="images/menu.png"/></a></div>
+		<br class="clearfix"/>
+        <aside class="showOnDesktop">
+		<a name="menuDesk"></a>
+		<ul class="menuDesk">
+			<li class="icon home"><a href="index.html">Home</a></li>
+			<li class="icon info"><a href="about.html">About</a></li>
+			<li class="icon add"><a href="referance.html">List of cities</a></li>
+		</ul>
+	</aside>
+
+	</header>
+	<!-- End of header section -->
+	
+	<hr class="separator showOnMobile"/>
+	
+	<div class="container">
+		<!-- Search section. To be decided if persistent in all pates -->
+		<div id="search" class="content">
+			<form>
+				<input type="text" size="30" maxlength="20" placeholder="Which Garbage?"/>
+				<input type="text" id="where" size="7" maxlength="5" placeholder="Where?"/>
+				<button type="button">Search</button>
+                <div id="position"></div>
+			</form>
+		</div>
+		<!-- End of search section -->
+    
+		<hr class="separator"/>
+	
+		<!-- Result section. To be displayed only after a query -->
+		<div id="result" class="content">
+		<div id="bin">
+		
+		</div>
+		<div id="query">
+			Waste name
+		</div>
+
+		<div id="answer">
+			This waste goes to this colour of bin
+		</div>
+		</div>
+		<!-- End of result section. -->
+	
+		<hr class="separator showOnMobile"/>
+	
+		<!-- Mobile Menu -->
+		<aside class="showOnMobile">
+			<a name="menu"></a>
+				<ul class="menu">
+				<li class="icon home"><a href="index.html">Home</a></li>
+				<li class="icon add"><a href="referance.html">List of cities</a></li>
+				<li class="icon info"><a href="about.html">About</a></li>
+			</ul>
+		</aside>
+		<!-- End of mobile Menu -->
+    </div>
+    <!-- Footer, credits aso. -->
+    <hr class="separator"/>
+</div>
+
+<footer class="footer">
+    <p>&copy; 2013 uni.christiandallago.com &bull; All Rights Reserved</p>
+    <div class="backToTop showOnMobile"><a href="#wrap">&#94;Back To top&#94;</a></div>
+</footer>
+<!-- End of footer, credits aso. -->
+
+<!-- Scripts! -->
+<script src="scripts/jquery.min.js"></script>	
+<script type="text/javascript" src="scripts/autopos.js"></script>
+<script src="scripts/XMLScript.js"></script>
+<!--------------------->
+
+</body>
+</html>

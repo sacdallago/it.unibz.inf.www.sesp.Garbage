@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+body {}
+	
+button {display:none;}
+	
+.wrap {}
+	
+.header {display:none;}
+
+.clearfix{clear:both;}
+
+input {display:none;}
+	
+img {display:none;}
+
+#errorPosition{display:none;}
+
+#positionFound{display:none;}
+
+#search {display:none;}
+
+#result {}
+    
+#bin{}
+
+#query {}
+
+#answer {}
+    
+.footer {}
+
+.social{display:none;}
+
+.content{}
+
+.backToTop {display:none;}
+	
+.showOnMobile{display:none;}
+.showOnDesktop{display:none;}
+
+.separator{display:none;}
+
+.menuDesk{display:none;}
+
+.icon .span,.icon a,.icon span{display:none;}
+.icon .span,.menuDesk a,.icon span{display:none;}
+.icon .span:before,.icon a:before,.icon span:before{display:none;}
+.info a:before,.info span:before,.info .span:before{display:none;}
+.home a:before,.home span:before,.home .span:before{display:none;}
+.add a:before,.add span:before,.add .span:before{display:none;}

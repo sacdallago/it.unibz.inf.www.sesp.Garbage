@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>GreeniFy</title>
+		<meta charset="utf-8">
+		<link href="css/print.css" rel="stylesheet" type="text/css" media='print'>
+		<script type="text/javascript" src="scripts/cssload.js"></script>
+		
+		<script src="http://code.jquery.com/jquery-latest.js"></script>
+		<script type="text/javascript" src="scripts/fade.js"></script>
+		
+		<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css"/>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+		<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.js"></script>
+		<script type="text/javascript" src="scripts/autocomplete.js"></script>
+	</head>
+
+	<body>
+		<div id="grass" ></div>
+		<h1 id="logo">GreeniFy</h1>
+		<a name="top"> </a>
+		<!-- Header section. Same in all pages -->
+		<header>
+			<a name="menuDesk"> </a>
+			<nav><img src="images/coin.png"><a href="index.html">Home</a><img src="images/coin.png"><a href="about.html">About</a><img src="images/coin.png"><a href="referance.html">Lista di citt&agrave;</a>
+			</nav>
+		</header>
+		<!-- End of header section -->
+
+		<!-- Search section. To be decided if persistent in all pates -->
+		<div id="search" class="content">
+			<div class="center"><form>
+				<h1>Inizia la tua ricerca</h1>
+				<p id="position">
+					&nbsp;
+					<br>
+					&nbsp;
+				</p>
+				<input type="text" id="what" size="30" maxlength="20" placeholder="Quale tipo di Rifiuto?"/>
+				<input type="text" id="where" size="7" maxlength="5" placeholder="Dove?"/>
+				<button type="button" id="button">
+					Cerca
+				</button>
+			</form></div>
+			<div class="block"></div>
+		</div>
+		<!-- End of search section -->
+
+		<!-- Result section. To be displayed only after a query -->
+		<div class="content" id="result">
+			<article>
+				<h1 id="query"></h1>
+				<div id="answer"><p class="center"><img src="images/marioconv.png"></p></div>
+			</article>
+		</div>
+		<!-- End of result section. -->
+
+		<!-- Scripts! -->
+		<!--<script src="scripts/jquery.min.js"></script> -->
+		<script type="text/javascript" src="scripts/autopos.js"></script>
+		<script type="text/javascript" src="scripts/XMLScript.js"></script>
+		<script type="text/javascript" src="scripts/search.js"></script>
+		<!--------------------->
+	</body>
+</html>
